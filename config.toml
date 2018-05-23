@@ -4,9 +4,9 @@ baseurl = "http://www.finnsfarm.ie/"
 theme = "aerial"
 
 [params]
-  name = "Finn's Farm"
+  name = "Finn's Alpaca Farm"
   about = "Alpacas &nbsp;&bull;&nbsp; Cork"
-  copyright = "The Harnedy Family"
+  copyright = "The Harnedy Family [year]"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
   favicon = "favicon.ico"
